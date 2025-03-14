@@ -1,0 +1,6 @@
+Dataset ของ Neural Network model ผมใช้วิธีการดึง data ผ่านทาง code เลยอาจไม่มี data ให้เห็น
+# Load model
+model = keras.models.load_model('cifar10_cnn_model.h5')
+
+# Load CIFAR-10 dataset
+(x_train, y_train), (x_test, y_test) = keras.datasets.cifar10.load_data()

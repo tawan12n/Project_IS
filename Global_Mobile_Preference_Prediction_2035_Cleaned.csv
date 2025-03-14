@@ -1,0 +1,101 @@
+Country,GDP_per_capita,Population_millions,Preferred_Device,GDP_per_capita_2035,Population_millions_2035,Predicted_Device_2035
+United States,3670,678,Android,100000.0,5000.0,Android
+Canada,26074,857,Android,40897.0,1336.7356321839081,iPhone
+Mexico,47875,167,iPhone,82972.0,213.0,iPhone
+Brazil,75957,896,Android,165787.0,1018.0,iPhone
+Argentina,44656,1110,iPhone,71328.0,1492.0,iPhone
+United Kingdom,57197,881,Android,73650.88372093023,1429.0,iPhone
+Germany,79210,560,iPhone,143809.0,480.0,iPhone
+France,73315,1051,Android,82668.0,913.0,iPhone
+Italy,41972,905,Android,54282.0,1299.0,iPhone
+Spain,35340,489,Android,100000.0,5000.0,iPhone
+Russia,63590,1143,Android,87298.0,1336.7356321839081,iPhone
+China,41457,985,Android,46378.0,1229.0,iPhone
+India,22162,1173,iPhone,41256.0,1819.0,iPhone
+Japan,59923,1382,Android,88103.0,1201.0,iPhone
+South Korea,22537,132,iPhone,42191.0,108.0,iPhone
+Australia,41027,351,Android,94262.0,542.0,iPhone
+South Africa,33993,469,Android,100000.0,5000.0,iPhone
+Egypt,16723,266,Android,21618.0,416.0,Android
+Nigeria,46340,411,Android,113416.0,337.0,iPhone
+Kenya,51719,167,Android,131164.0,236.0,iPhone
+Saudi Arabia,58558,1073,Android,73585.0,1168.0,iPhone
+United Arab Emirates,28022,1122,iPhone,33537.0,1818.0,iPhone
+Turkey,65280,1468,Android,102362.0,1730.0,iPhone
+Iran,77733,900,Android,134755.0,1227.0,iPhone
+Pakistan,3304,106,iPhone,73650.88372093023,129.0,Android
+Indonesia,61534,1210,Android,82342.0,1754.0,iPhone
+Thailand,40863,721,iPhone,100000.0,5000.0,iPhone
+Vietnam,74566,304,Android,140535.0,1336.7356321839081,iPhone
+Philippines,26450,1075,Android,73650.88372093023,1336.7356321839081,iPhone
+Malaysia,73010,449,iPhone,82447.0,679.0,iPhone
+Bangladesh,28968,170,Android,60783.0,255.0,iPhone
+Sri Lanka,76371,1252,Android,95311.0,1070.0,iPhone
+New Zealand,10705,313,Android,25800.0,394.0,Android
+Sweden,27029,223,iPhone,50215.0,310.0,iPhone
+Norway,54460,1432,Android,62491.0,1584.0,iPhone
+Finland,48475,365,Android,73650.88372093023,429.0,iPhone
+Denmark,35871,1162,Android,53347.0,1336.7356321839081,iPhone
+Netherlands,36013,597,iPhone,51584.0,500.0,iPhone
+Belgium,77991,1224,Android,114639.0,1535.0,iPhone
+Switzerland,60778,1216,iPhone,82047.0,1017.0,iPhone
+Poland,45297,917,iPhone,73650.88372093023,1159.0,iPhone
+Ukraine,30400,198,iPhone,39041.0,162.0,iPhone
+Greece,13707,879,iPhone,73650.88372093023,1423.0,iPhone
+Portugal,27586,1222,Android,47256.0,1569.0,iPhone
+Chile,12908,64,Android,73650.88372093023,75.0,Android
+Colombia,11397,1349,Android,14466.0,1398.0,Android
+Peru,26826,230,Android,38054.0,1336.7356321839081,iPhone
+Venezuela,9656,529,Android,16709.0,476.0,Android
+Singapore,15350,1470,Android,32323.0,1336.7356321839081,iPhone
+Israel,64158,766,iPhone,71807.0,1336.7356321839081,iPhone
+Afghanistan,13077,940,Android,100000.0,5000.0,Android
+Armenia,18134,1305,Android,36770.0,1233.0,iPhone
+Azerbaijan,74273,1040,Android,73650.88372093023,851.0,iPhone
+Bahrain,6193,11,iPhone,73650.88372093023,9.0,Android
+Belarus,27784,463,Android,64457.0,516.0,iPhone
+Bolivia,36342,1269,Android,100000.0,5000.0,iPhone
+Botswana,25527,347,iPhone,45233.0,333.0,iPhone
+Bulgaria,23943,810,Android,47656.0,1310.0,iPhone
+Cambodia,15842,1320,Android,32523.0,1653.0,iPhone
+Cameroon,13814,1302,Android,22760.0,1331.0,Android
+Costa Rica,48261,1001,Android,106234.0,1365.0,iPhone
+Croatia,12477,1490,iPhone,14313.0,1517.0,Android
+Cuba,55532,1000,Android,123813.0,1336.7356321839081,iPhone
+Czech Republic,62356,555,Android,80799.0,770.0,iPhone
+Ecuador,33867,7,iPhone,72198.0,8.0,iPhone
+El Salvador,21281,23,Android,36680.0,37.0,iPhone
+Estonia,33460,1120,Android,49326.0,1336.7356321839081,iPhone
+Ethiopia,47147,1098,Android,54449.0,1380.0,iPhone
+Fiji,62532,67,Android,74106.0,59.0,iPhone
+Georgia,9827,387,Android,73650.88372093023,499.0,Android
+Ghana,10357,598,Android,19601.0,710.0,Android
+Guatemala,44555,1379,iPhone,90627.0,1240.0,iPhone
+Honduras,62416,978,Android,100000.0,5000.0,iPhone
+Hungary,11258,394,Android,23219.0,425.0,Android
+Iceland,71517,955,Android,113441.0,1194.0,iPhone
+Jamaica,79274,960,Android,144679.0,841.0,iPhone
+Jordan,67958,695,Android,150226.0,781.0,iPhone
+Kazakhstan,35836,160,Android,40625.0,136.0,iPhone
+Kuwait,45536,844,iPhone,100000.0,5000.0,iPhone
+Kyrgyzstan,56352,894,Android,138164.0,888.0,iPhone
+Laos,29645,1149,Android,43261.0,1234.0,iPhone
+Lebanon,70491,896,iPhone,146706.0,1336.7356321839081,iPhone
+Lithuania,41842,1419,Android,84916.0,1336.7356321839081,iPhone
+Luxembourg,12889,41,Android,23680.0,37.0,Android
+Madagascar,30312,888,Android,53407.0,880.0,iPhone
+Malawi,12471,123,Android,100000.0,5000.0,Android
+Malta,22461,234,Android,73650.88372093023,214.0,iPhone
+Mauritius,77851,1168,Android,126038.0,1471.0,iPhone
+Moldova,11496,893,Android,15075.0,956.0,Android
+Mongolia,4144,896,Android,73650.88372093023,911.0,Android
+Morocco,17652,698,Android,22036.0,1336.7356321839081,Android
+Mozambique,31399,690,Android,73650.88372093023,590.0,iPhone
+Myanmar,37476,484,iPhone,100000.0,5000.0,iPhone
+Namibia,14075,481,Android,20323.0,537.0,Android
+Nepal,2951,1052,Android,3657.0,1241.0,Android
+New Guinea,62659,1489,iPhone,106989.0,1672.0,iPhone
+Nicaragua,53752,1007,Android,73650.88372093023,989.0,iPhone
+Oman,25294,338,Android,28821.0,439.0,Android
+Panama,65323,290,Android,99824.0,247.0,iPhone
+Paraguay,75123,907,Android,164479.0,1199.0,iPhone
